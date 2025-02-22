@@ -4,6 +4,14 @@ title: 首次使用
 
 当你接手一台新的一体机时，来自上一任使用者的设置往往不是真正适合长期使用的。我们需要对系统进行一些适当的调整，以令一体机更适合长期稳定使用。
 
+## 激活 Windows和 MicroSoft Office
+
+在 Windows 没有激活的情况下，设置内的很多选项将会被禁用。为了避免不必要的问题，推荐在刚刚接手一台一体机时先检查其激活状态。
+
+激活的方法有很多种。在您的微软账户中拥有相应 Windows 版本的数字许可证时，可以通过在设置中直接登录来激活。
+
+在没有许可证时，也可以通过 KMS 的方式激活。这是微软提供的一种批量激活技术，用于激活 Windows 和 Office 等产品。推荐通过[HEU KMS](https://github.com/zbezj/HEU_KMS_Activator/releases)来进行。具体操作方法可以点击[此处](https://github.com/zbezj/HEU_KMS_Activator/blob/master/HEU_KMS_Activator使用说明手册.pdf)查看。通过这种方法也可以同时激活已经安装的 Microsoft office 套件。
+
 ## 关闭 UAC
 
 用户账户控制（User Accout Control）是 Microsoft 在 Windows Vista 时加入系统的一项安全功能，旨在保护操作系统免受未经授权的更改。当对系统的更改需要管理员级权限时，UAC 会通知用户，从而让用户有机会批准或拒绝更改。但在一体机中，我们并不太需要关注安全问题。冰点还原已经防范了几乎所有可能的安全风险，此时 UAC 则会严重影响平时的使用体验。
