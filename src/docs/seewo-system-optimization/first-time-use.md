@@ -4,13 +4,13 @@ title: 首次使用
 
 当你接手一台新的一体机时，来自上一任使用者的设置往往不是真正适合长期使用的。我们需要对系统进行一些适当的调整，以令一体机更适合长期稳定使用。
 
-## 激活 Windows和 MicroSoft Office
+## 激活 Windows和 Microsoft Office
 
 在 Windows 没有激活的情况下，设置内的很多选项将会被禁用。为了避免不必要的问题，推荐在刚刚接手一台一体机时先检查其激活状态。
 
-激活的方法有很多种。在您的微软账户中拥有相应 Windows 版本的数字许可证时，可以通过在设置中直接登录来激活。
+激活的方法有很多种。若您的微软账户中拥有相应 Windows 版本的数字许可证时，可以通过在设置中直接登录来激活。
 
-在没有许可证时，也可以通过 KMS 的方式激活。这是微软提供的一种批量激活技术，用于激活 Windows 和 Office 等产品。推荐通过[HEU KMS](https://github.com/zbezj/HEU_KMS_Activator/releases)来进行。具体操作方法可以点击[此处](https://github.com/zbezj/HEU_KMS_Activator/blob/master/HEU_KMS_Activator使用说明手册.pdf)查看。通过这种方法也可以同时激活已经安装的 Microsoft office 套件。
+在没有许可证时，也可以通过 KMS 的方式激活。这是微软提供的一种批量激活技术，用于激活 Windows 和 Office 等产品。建议您联系学校信息管理中心，获得有关KMS服务器的更多详细信息。
 
 ## 关闭 UAC
 
