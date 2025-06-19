@@ -20,3 +20,5 @@ InkCanvasForClass 同样也是一款不错的工具，提供了类似希沃白�
 ## PDF 阅读器
 
 推荐使用 Adobe Acrobat Reader，功能比 Word 和浏览器更丰富全面，且免费无捆绑。
+
+如果你的老师比较~~事B~~对大屏的要求比较严苛，想要PDF批注同时又能让墨迹随文档走，那就用edge吧。虽然edge用起来可能有点卡。。。
