@@ -11,7 +11,7 @@ tag:
 
 推荐使用 360 压缩国际版。360 压缩是 360 系列软件中较为良心的一个，而国际版则更为优秀。安装后没有任何广告与捆绑，十分的纯净方便。
 
-[GitHub地址（点击跳转GitHub仓库）](https://github.com/peazip/PeaZip)也是一个不错的选择。开源跨平台，操作简捷，界面大方。
+[Peazip（点击跳转GitHub仓库）](https://github.com/peazip/PeaZip)也是一个不错的选择。开源跨平台，操作简捷，界面大方。
 ## 还原软件
 
 推荐使用冰点还原，先启动 setup 进行安装，同意用户协议，安装进入到许可证密钥界面不填写，打钩使用评估版。选择冻结的驱动器配置时只选择C盘，勾选保持新发现的硬盘驱动器为解冻状态，之后一路下一步进行安装。之后电脑会自动重启一次，重启之后安装完成重启后，按 <kbd>Alt</kbd>+<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>F6</kbd> 唤出软件，设置密码后，选择【启动后解冻】，然后保存重启；打开C盘，找到【Persi0.sys】，用 360 安全卫士解除该软件的占用然后运行破解补丁，点击【Patch】按钮，等待弹出提示框，点击【OK】，然后点击【Exit】退出即可完成破解，破解后按下 <kbd>Alt</kbd>+<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>F6</kbd>  重新打开冰点还原，选择【启动后冻结】，点击确定重启电脑即可。
@@ -29,8 +29,9 @@ tag:
 一般情况Edge就足够了。但如果你不喜欢edge的复杂功能，或者你们班已经转Linux平台了，那么我推荐以下浏览器：
 
 ·Chrome：简洁易用。网址：[https://google.cn/chrome/](https://google.cn/chrome/)
-    >[!important]
-    chrome的官网其实是可以打开的，就是上面提供的网址。现在网上有很多假冒Google Chrome的网站，请注意甄别。
+>[!important]
+ chrome的官网其实是可以打开的，就是上面提供的网址。现在网上有很多假冒Google Chrome的网站，请注意甄别。
 .Firefox:基于Gecko内核的浏览器，其它的就不过多赘述了。
     下载方式：1.在线安装包:[https://www.mozilla.org/zh-CN/firefox/all/](https://www.mozilla.org/zh-CN/firefox/all/)
+    
     2.离线安装包：[https://ftp.mozilla.org/pub/firefox/releases/](https://ftp.mozilla.org/pub/firefox/releases/)
