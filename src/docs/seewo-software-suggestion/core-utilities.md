@@ -36,8 +36,7 @@ tag:
 
 ·Firefox:基于Gecko内核的浏览器，其它的就不过多赘述了。
     下载方式：1.在线安装包:[https://www.mozilla.org/zh-CN/firefox/all/](https://www.mozilla.org/zh-CN/firefox/all/)
-    
-    2.离线安装包: [火狐FTP服务器](https://ftp.mozilla.org/pub/firefox/releases/)
+    2.离线安装包:[Mozilla ftp服务器](https://ftp.mozilla.org/firefox)
 
 ·Yandex：俄罗斯的一个浏览器，用起来体验不错，就是中文翻译有点奇怪（比如它把“打印”翻译成“印刷业”，不知道这个bug现在修复了没有）
     下载链接：[https://browser.yandex.com/](https://browser.yandex.com/)

@@ -22,7 +22,13 @@ title: 首次使用
 
 Windows 安全中心应用是集成到 Windows 中的综合安全解决方案，旨在保护设备和数据免受各种威胁。Microsoft Defender 是 Windows 安全中心中的防病毒程序。默认情况下，Microsoft Defender 被开启。但 Microsoft Defender 常常不经过用户同意删除文件，若这是教学需要使用的文件，则可能会占用上课的时间。
 
-禁用 Microsoft Defender 的方式很简单，只需要下载一个其它杀毒软件替换 Microsoft Defender 即可。针对教学场景，作者推荐使用火绒安全。火绒安全相较于其他软件更轻量，也更适合教学场景使用。
+禁用 Microsoft Defender 的方式很简单，只需要下载一个其它杀毒软件替换 Microsoft Defender 即可。针对教学场景。
+
+还有一种简单粗暴的方式，是直接移除 Microsoft Defender 🤣。您可以使用[Defender Remover(点击跳转GitHub仓库)](https://github.com/ionuttbara/windows-defender-remover)直接删除！
+
+## 下载杀毒软件
+
+其实在大屏上下杀毒软件的主要目的不是用来杀毒，而是垃圾清理🤣。如果对自己技术不自信无脑安火绒就行，简洁轻量无广告。但如果你会调可以考虑360极速版，把广告之类的关了后功能比火绒更丰富。
 
 ## 将桌面移动到其他分区
 
