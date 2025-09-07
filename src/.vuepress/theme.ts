@@ -24,15 +24,16 @@ export default hopeTheme({
   sidebar,
 
   // 页脚
-  footer: "默认页脚",
   displayFooter: true,
+  footer: "本文档以 <a href='https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1'> CC BY-NC-SA 4.0 许可协议 </a> 授权 | Copyright © 2025 unDefFtr",
+  copyright: false,
 
   // 加密配置
-  encrypt: {
-    config: {
-      "/demo/encrypt.html": ["1234"],
-    },
-  },
+  // encrypt: {
+  //   config: {
+  //     "/demo/encrypt.html": ["1234"],
+  //   },
+  // },
 
   // 多语言配置
   metaLocales: {
