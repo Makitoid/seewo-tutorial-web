@@ -10,13 +10,11 @@ actions:
     icon: lightbulb
     link: ./docs/
     type: primary
-
-
 copyright: false
-footer: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VuePress Theme Hope</a> 主题
+footer: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VuePress Theme Hope</a> 主题 <br/> 以 <a href='https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1'> CC BY-NC-SA 4.0 </a> 许可协议授权 | Copyright © 2025 unDefFtr
 ---
 
-成为一名电教委，你将是班级科技的“守护者”。但面对不同的班级一体机与老师同学的要求，你是否感到无从下手？本书将为你揭开电教委的神秘面纱，从硬件配置到软件应用，从系统优化到故障排除，手把手教你掌握班级电脑管理的各项技能。
+成为一名电教委，你将是班级科技的“守护者”。但面对不同的班级一体机与老师同学的要求，你是否感到无从下手？本文档将为你揭开电教委的神秘面纱，从硬件配置到软件应用，从系统优化到故障排除，手把手教你掌握班级电脑管理的各项技能。
 
 <div class="vp-card-container">
   <VPCard
