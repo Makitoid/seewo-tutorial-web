@@ -43,6 +43,13 @@ export default sidebar({
       prefix: "seewo-problem-fixing",
       link: "seewo-problem-fixing/",
       children: [
+        "startup-issues",
+        "display-touch-issues",
+        "audio-issues",
+        "network-issues",
+        "software-system-issues",
+        "peripheral-issues",
+        "hardware-cleaning"
       ],
     },
   ],
