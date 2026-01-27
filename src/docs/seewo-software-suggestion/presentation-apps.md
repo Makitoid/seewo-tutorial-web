@@ -44,7 +44,7 @@ tag:
 *   **优点**：功能强大且专注，界面简洁，完全免费开源。
 *   **注意**：作为社区版，可能偶尔存在一些小BUG，但总体稳定可用。
 
-> 更多教学辅助工具，可在 [Awesome IWB 项目](https://github.com/Awesome-Iwb/Awesome-Iwb) 和 [ACW 项目](https://github.com/Jursin/Awesome-Class-Softwares) 中探索。
+> 更多教学辅助工具，可在 [Awesome IWB 项目](https://github.com/Awesome-Iwb/Awesome-Iwb) 和 [ACS 项目](https://github.com/Jursin/Awesome-Class-Softwares) 中探索。
 
 ## PDF 阅读与批注
 
