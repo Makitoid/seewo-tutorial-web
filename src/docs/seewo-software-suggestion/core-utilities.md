@@ -11,7 +11,7 @@ tag:
 
 推荐使用 **Bandizip**。它是一款轻量、快速且功能强大的压缩软件，支持包括 RAR、ZIP、7Z 在内的绝大多数压缩格式。其免费版本界面清爽，无任何广告，解压速度极快，并提供了独特的“自动解压”功能，能有效避免解压文件散落一桌面的情况。
 
-[**PeaZip**（点击跳转GitHub仓库）](链接3) 也是一个优秀的开源跨平台选择，注重安全性和格式支持，界面简洁大方。
+[**PeaZip**（点击跳转GitHub仓库）](https://github.com/peazip/PeaZip) 也是一个优秀的开源跨平台选择，注重安全性和格式支持，界面简洁大方。
 
 ## 文件搜索工具
 
@@ -42,21 +42,21 @@ tag:
 一般情况下，系统自带的 Microsoft Edge 浏览器就足够使用。但如果您不喜欢 Edge 的复杂功能，或者需要在 Linux 平台下使用，那么推荐以下浏览器：
 
 *   **Google Chrome**：界面简洁，性能强劲，网页兼容性极佳。
-    *   下载链接：[链接4](链接4)
+    *   下载链接：[https://www.google.cn/chrome/](https://www.google.cn/chrome/)
     *   ::: important 注意
         Chrome 的官网其实是可以访问的（即上方链接）。网上存在大量假冒的 Google Chrome 下载站，请务必仔细甄别。
         :::
 
 *   **Mozilla Firefox**：一款开源、注重隐私保护的浏览器，基于 Gecko 内核。
     *   下载方式：
-        1.  在线安装包：[链接5](链接5)
+        1.  在线安装包：[https://www.mozilla.org/zh-CN/firefox/download/thanks/](https://www.mozilla.org/zh-CN/firefox/download/thanks/)
         2.  离线安装包：[Mozilla FTP 服务器](https://ftp.mozilla.org/pub/firefox/releases/)
 
-*   **Yandex Browser**：俄罗斯的一款基于 Chromium 的浏览器，集成了一些实用功能，用户体验不错。但早期版本的中文翻译可能存在瑕疵。
-    *   下载链接：[链接1](链接1)
+*   **Yandex Browser**：俄罗斯的一款基于 Chromium 的浏览器，集成了一些实用功能，用户体验不错,但中文翻译可能存在瑕疵。
+    *   下载链接：[https://browser.yandex.com/](https://browser.yandex.com/)
 
 ## Github 加速工具
 
 众所周知，GitHub 在国内的访问时常不稳定，而许多教学辅助软件（如 Classisland, ica）都依赖其进行更新。虽然在班级电脑上安装 VPN 软件可能不太合适，但可以使用专门的加速工具。
 
-[**Watt Toolkit**（原名 Steam++，点击跳转GitHub仓库）](链接2) 是一个开源跨平台的多功能工具箱。虽然其开发初衷是针对 Steam 平台，但其内置的“网络加速”功能对 GitHub、谷歌学术等常见开发和研究网站有很好的加速效果。在 3.0 及以上版本中，您可以禁用其他不需要的插件，只保留核心的加速功能。
+[**Watt Toolkit**（原名 Steam++）](https://steampp.net/) 是一个开源跨平台的多功能工具箱。虽然其开发初衷是针对 Steam 平台，但其内置的“网络加速”功能对 GitHub等常见开发和研究网站有很好的加速效果。在 3.0 及以上版本中，您可以禁用其他不需要的插件，只保留核心的加速功能。
